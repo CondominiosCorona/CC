@@ -95,7 +95,7 @@ header {
 }
 .titulo
 {	
-    font-size: 80px;
+    font-size: 55px;
 	color: rgb(0, 0, 0);
 	
 	padding: 6px;
@@ -445,7 +445,7 @@ footer .creado-por a:hover {text-decoration: underline;}
 	}
 	.titulo
 	{	
-		font-size: 80px;
+		font-size: 55px;
 	}
 	header .barra-busqueda {
 		width: 100%;
