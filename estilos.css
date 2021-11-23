@@ -677,6 +677,7 @@ footer .creado-por a:hover {text-decoration: underline;}
 	}
 	header .barra-busqueda {
 		width: 100%;
+		margin-top: -12px;
 	}
 	.nombreprod
 	{
